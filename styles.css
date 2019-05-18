@@ -1,0 +1,10 @@
+body {
+  background: #2c294f;
+  padding: 2rem;
+}
+
+p {
+  font: 1rem/1.45 "Operator Mono";
+  color: #a599e9;
+  text-align: center;
+}
